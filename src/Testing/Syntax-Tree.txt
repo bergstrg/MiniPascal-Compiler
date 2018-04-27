@@ -1,0 +1,35 @@
+|-- Program: foo
+|-- --- Declarations
+|-- --- --- Name: fee
+|-- --- --- Name: fi
+|-- --- SubProgramDeclarations
+|-- --- --- SubProgram: fi, Return: null
+|-- --- --- Arguments: fum[REAL]
+|-- --- --- --- Declarations
+|-- --- --- --- --- Name: walk
+|-- --- --- --- --- Name: jog
+|-- --- --- --- --- Name: run
+|-- --- --- --- SubProgramDeclarations
+|-- --- --- --- Compound Statement
+|-- --- --- --- --- If
+|-- --- --- --- --- --- Name: fum
+|-- --- --- --- --- --- Assignment
+|-- --- --- --- --- --- --- Name: run
+|-- --- --- --- --- --- --- Operation: MINUS
+|-- --- --- --- --- --- --- --- Name: 5
+|-- --- --- --- --- --- --- --- Name: 4
+|-- --- --- --- --- --- Assignment
+|-- --- --- --- --- --- --- Name: run
+|-- --- --- --- --- --- --- Operation: PLUS
+|-- --- --- --- --- --- --- --- Name: 4
+|-- --- --- --- --- --- --- --- Name: 5
+|-- --- Compound Statement
+|-- --- --- If
+|-- --- --- --- Name: fi
+|-- --- --- --- Assignment
+|-- --- --- --- --- Name: fee
+|-- --- --- --- --- Name: 5
+|-- --- --- --- Assignment
+|-- --- --- --- --- Name: fee
+|-- --- --- --- --- Name: 10
+

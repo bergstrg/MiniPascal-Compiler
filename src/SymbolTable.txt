@@ -1,0 +1,7 @@
+SymbolTable { 
+Global Table = 
+{fi = ( id = fi, Kind = VARIABLE, Type = ID )	
+ foo = ( id = foo, Kind = PROGRAM, Type = null )	
+ fee = ( id = fee, Kind = VARIABLE, Type = ID )	
+}
+}

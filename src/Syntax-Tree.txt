@@ -1,0 +1,17 @@
+|-- Program: foo
+|-- --- Declarations
+|-- --- --- Name: fee Type: REAL
+|-- --- --- Name: fi Type: REAL
+|-- --- SubProgramDeclarations
+|-- --- Compound Statement
+|-- --- --- If
+|-- --- --- --- Operation: LTHAN
+|-- --- --- --- --- Name: fi Type: ID
+|-- --- --- --- --- Name: 5 Type: INTEGER
+|-- --- --- --- Assignment
+|-- --- --- --- --- Name: fee Type: ID
+|-- --- --- --- --- Name: 5 Type: INTEGER
+|-- --- --- --- Assignment
+|-- --- --- --- --- Name: fee Type: ID
+|-- --- --- --- --- Name: 10 Type: INTEGER
+

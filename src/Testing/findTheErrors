@@ -1,0 +1,25 @@
+#Catch the error! @ HERE #
+program tester;
+var
+    foo, fee, fum: integer;
+#Catch the error! @ HERE #
+begin:
+±
+      foo = 1232;
+      fum = 1 - 2;
+      fee = fum + foo;
+      _
+
+      if foo != 13
+      then
+          fo := 13
+          fum := 90
+      else
+          fo := 13
+          fee := 234;
+      _
+      write(fo)
+end
+±
+.
+#Catch the error! @ HERE #
